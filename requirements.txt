@@ -1,0 +1,7 @@
+requests
+BeautifulSoup
+selenium
+pandas y data-profiling
+Pandas 
+numpy
+matplotlib
