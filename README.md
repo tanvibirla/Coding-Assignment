@@ -16,7 +16,11 @@ After installing the required libraries, run the Python script: python Lizmotors
 
 ## About the Assignment
 
-The Python script scrapes data from various websites related to the automotive industry, extracts meaningful insights, and stores them for further analysis.
+1. Identify Relevant Websites
+2. Understand Website Structure
+3. Write Python Script
+4. Analysis work 
+5. Handle Challenges
 
 ## Repository Contents
 
